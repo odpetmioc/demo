@@ -8,7 +8,7 @@
 
 ## Installation Steps
 1. Download this Repo
-2. Download .app [from releases](https://github.com/opticdev/optic/releases/tag/0.1.0)
+2. Download .app [from releases](https://github.com/odpetmioc/demo/releases)
 3. Install Optic Markdown globally `npm install optic-markdown -g`
 4. Install Atom Plug-in  `apm install optic`
 > This will eventually be done with an installer that's aware of the IDEs you have on your computer 

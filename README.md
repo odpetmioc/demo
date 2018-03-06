@@ -28,7 +28,7 @@
 
 ## Video Demo 
 You: I just want to see everything without downloading stuff 
-Us: Watch this!
+Us: [Watch this!](https://www.youtube.com/watch?v=S5ZzaOof13U) 
 
 ## How Does This Work?
 * Optic Projects are defined by putting an `optic.yaml` folder in your repository. This file is like a `package.json` file but it defines the knowledge you want to include in your project. In this case all the knowledge is coming from reading the markdown files in `./docs/` but they could also come from our central registry. If you change the knowledge in `./docs/` it will change how Optic generates code and answers questions. 

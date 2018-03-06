@@ -12,6 +12,7 @@
 3. Install Optic Markdown globally `npm install optic-markdown -g`
 4. Install Atom Plug-in  `apm install optic`
 > This will eventually be done with an installer that's aware of the IDEs you have on your computer 
+> ***Known Issue***: On some versions of macOS Optic will fail to start properly if it is in a path that contains spaces. ie (/User/aidan/Desktop/Test\ Projects/Optic.app) This will be fixed soon. 
 
 ## Instructions
 1. Start Optic.app by double clicking it

@@ -30,11 +30,8 @@
 You: I just want to see everything without downloading stuff 
 Us: [Watch this!](https://www.youtube.com/watch?v=S5ZzaOof13U) 
 
-## How Does This Work?
-* Optic Projects are defined by putting an `optic.yaml` folder in your repository. This file is like a `package.json` file but it defines the knowledge you want to include in your project. In this case all the knowledge is coming from reading the markdown files in `./docs/` but they could also come from our central registry. If you change the knowledge in `./docs/` it will change how Optic generates code and answers questions. 
-* Optic uses the markdown to construct a knowledge graph it can use to answer your questions as well as a series of code generators and parsers that allow it to read and write code based on the examples in the markdown. 
-* We use Machine Learning to teach Optic how to generate and patch code from an AST Tree allowing us to preserve user changes and formatting. 
-* There's no hidden information, everything Optic knows about your project is read from the code. 
+## Optic Docs 
+Learn more about how Optic works and the steps to author content in the system [here](http://opticdev.com/docs/#/)
 
 ## New in this Release 
 * Single .app file to start 

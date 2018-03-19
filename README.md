@@ -18,15 +18,15 @@
 2. Open the example project in this repo with Atom 
 3. Move your cursor around with the arrow keys, selecting and de-selecting code 
 
+## Video Demo 
+You: I just want to see everything without downloading stuff 
+Us: [Watch this!](https://www.youtube.com/watch?v=S5ZzaOof13U) 
+
 ## Things to Try Out 
 1. Search For Something by typing directly into your IDE. 
 `/// your search query`
 2. Select a Model from `models.js` and Transform it into a Route or a Query
 3. Highlight a route from `app.js` and change a property to see Optic update the code to match your changes.
-
-## Video Demo 
-You: I just want to see everything without downloading stuff 
-Us: [Watch this!](https://www.youtube.com/watch?v=S5ZzaOof13U) 
 
 ## Optic Docs 
 Learn more about how Optic works and the steps to author content in the system [here](http://opticdev.com/docs/#/)

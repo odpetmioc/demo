@@ -8,7 +8,7 @@
 
 ## Installation Steps
 1. Download this Repo
-2. Download the most recent .app [from releases](https://github.com/odpetmioc/demo/releases).
+2. Download the most recent .app [from our website](http://opticdev.com/get-optic/).
 3. Move to Applications Folder
 4. Install Atom Plug-in  `apm install optic`
 > This will eventually be done with an installer that's aware of the IDEs you have on your computer 
